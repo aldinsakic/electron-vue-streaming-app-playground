@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "electron": "^31.1.0",
+    "vue": "^3.4.31"
+  }
+}
