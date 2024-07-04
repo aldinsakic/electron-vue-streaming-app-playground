@@ -2,6 +2,7 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.5",
     "electron": "^31.1.0",
-    "vue": "^3.4.31"
+    "vue": "^3.4.31",
+    "vue-burger-menu": "^2.0.5"
   }
 }
